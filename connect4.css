@@ -16,7 +16,15 @@
 }
 
 /* TODO: make pieces red/blue,  depending on player 1/2 piece */
+.player1 {
+  background-color: red;
+  border-radius: 25px;
+}
 
+.player2 {
+  background-color: blue;
+  border-radius: 25px;
+}
 /* column-top is table row of clickable areas for each column */
 
 #column-top td {
